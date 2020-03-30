@@ -28,7 +28,6 @@ print('Enter the following details,while price must between 0-1')
 d=float(input('duration of spot rate(years):'))
 print('Price of',d,'year unit zero-coupon bond')
 p=float(input(':'))
-
 if p>=1 or p<=0:
     print('Price must between 0-1') 
     exit()

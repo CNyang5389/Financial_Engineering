@@ -1,0 +1,11 @@
+HW3學習歷程
+1.看到題目後，我就在想，我到底要寫什麼東西？
+其實題目已經有附了兩張樹狀圖，其實call price一條式子就算完了。我思考了一陣子，決定跑出這兩張圖，並從中的數值算出答案。
+2.為了方便，在8-23行寫了兩個if，若要算題目的數值就不用打字了，這樣會比較方便一點。
+3.用方便又簡潔的方式的話，我想到用7x4矩陣畫樹狀圖最為方便
+  我總共畫了三個會用到的圖：
+  Binomial process for the stock price, probabilities in parentheses, Binomial process for the call price
+  也就是把第一張Price和probabilities分開成兩格，第二張紙畫了price
+  在推算其中的數值時，我的思路是以45度角的直線這樣的方向一條一條跑
+4.最終的答案(call price)會用到probabilities in parentheses, Binomial process for the call price，各call price加權機率即可算出答案
+5.此題答案為85.069, and is also found as the PV of the expectef payoff at expiration.

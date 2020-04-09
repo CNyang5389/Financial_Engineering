@@ -8,7 +8,6 @@ print('If the input is not same as the default, the result will be differnt c')
 dd=input('run the default settings(y/n):')
 #此程式可算三期的call price
 #為了讓如果是使用這題目的預設數字就不用打字了
-
 if dd=='n':
     print('Let the period of European call "n" always equals 3')
     price=float(input('請輸入 price of non-dividend paying stock:'))
@@ -84,8 +83,3 @@ print(k3)
 #計算call price
 cv=round((k3[0][3]*k2[0][3]+k3[2][3]*k2[2][3]+k3[4][3]*k2[4][3]+k3[6][3]*k2[6][3])/(r**3),3)
 print('call price is',cv,',and is also found as the PV of the expectef payoff at expiration.')
-
-
-
-
-

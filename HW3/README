@@ -1,0 +1,7 @@
+HW3說明:
+1.	此程式可算任何n=3的European call for non-dividend paying stock
+2.	一開始會問是否使用題目預設數值，若是則輸入y
+3.	可得到三個矩陣形式的樹狀圖：
+    Binomial process for the stock price, Brobabilities in parentheses, Binomial process for the call price
+    以及最終的答案(call price)
+4.	此題答案為85.069, and is also found as the PV of the expectef payoff at expiration.

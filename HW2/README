@@ -1,6 +1,7 @@
 HW2說明：
 在子資料夾裡有各個程式的分檔，HW2.py只是方便看全部的程式碼
 使用規則請依各個指示操作
+流程：
 1.	YTM計算器
 (1)	請依行輸入Current Bond Price, Bond Par Value, Bond Coupon Rate(% p.a.), Year to maturity及 每年支付次數
 (2)	可得到YTM(到小數點後四位數)

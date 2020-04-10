@@ -11,7 +11,7 @@ HW2說明：
 (2)	可得到Spot Rate以及Spot Force (到小數點後2位數)
 3.	Forward Rate計算器
 (1)	請依行輸入起始年、年期、起始年之unit zero-coupon bond price 以及 結束年之unit zero-coupon bond price。
-		但若price不在(0,1) 或者 起始年之價格小於結束年，會被退出程式，請注意。
+	但若price不在(0,1) 或者 起始年之價格小於結束年，會被退出程式，請注意。
 (2)	可得到Forward Rate以及Forward Force (到小數點後2位數)
 4.	Forward Rate對照表產生器
 (1)	請依行輸入年限、期長、各期Bond price(以,隔開)以及各期par value以,隔開)。若輸入格式不正確，會出現錯誤。

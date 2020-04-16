@@ -2,3 +2,5 @@
 1. 下載檔案(此程式只能計算 2 dividends stock)
 2. 決定是否使用題目之數據。是則輸入y，不使用則輸入n，再依需輸入。
 3. 即可得到call price & put price。(此題答案call price=$2.86,  put price=$12.806)
+
+所有的東西都有放在懶人包裡
